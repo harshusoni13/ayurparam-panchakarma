@@ -1,0 +1,342 @@
+[
+  {
+    "id": "CS_SU_1_53",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 1 (दीर्घञ्जीवितीय)",
+    "shloka": "विपरीतं गुणैर्देशमात्राकालोपपादितम्। भेषजं विनिवर्तयति विकारान् साध्यसम्मतान्॥",
+    "meaning": "देश, मात्रा और काल का विचार करके दोषों के विपरीत गुणों वाली औषध या शोधन चिकित्सा साध्य रोगों को नष्ट कर देती है।",
+    "keywords": ["चिकित्सा सिद्धांत", "देश", "मात्रा", "काल", "साध्य"],
+    "modern_correlation": "Precision therapeutics calibrated by circadian timing (Kala), patient constitution/pharmacogenomics (Desha), and weight/metabolic dosing (Matra)."
+  },
+  {
+    "id": "CS_SU_7_46",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 7 (नवेगान्धारणीय)",
+    "shloka": "यथाकालं च संशोधनमपकर्षणमेव च। कृत्वा न जायते रोगः प्रायशो येन मानवः॥",
+    "meaning": "ऋतु और काल के अनुसार सम्यक् संशोधन (पंचकर्म) और दोष अपकर्षण करने से मनुष्य प्रायः रोगों से ग्रस्त नहीं होता।",
+    "keywords": ["ऋतु शोधन", "संशोधन", "रोकथाम", "वसन्त", "शरद", "वर्षा"],
+    "modern_correlation": "Seasonal preventive detoxification synchronizing autonomic and metabolic adaptation across environmental transitions."
+  },
+  {
+    "id": "CS_SU_13_13",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 13 (स्नेहाध्याय)",
+    "shloka": "स्नेहनं स्नेहविष्यन्दमार्दवक्लेदकारकम्।",
+    "meaning": "जो द्रव्य शरीर में स्नेह, विष्यन्दन (दोषों को द्रवीभूत करना), मृदुता और क्लेद उत्पन्न करे, उसे स्नेहन कहते हैं।",
+    "keywords": ["स्नेहन", "विष्यन्दन", "मृदुता", "क्लेद", "पूर्वकर्म"],
+    "modern_correlation": "Lipophilic mobilization of hydrophobic tissue-bound toxins and softening of extracellular matrix adhesions."
+  },
+  {
+    "id": "CS_SU_13_29",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 13 (स्नेहाध्याय)",
+    "shloka": "त्र्यहावरं सप्तदिनं परं तु स्निग्धो नरः स्वेदित एव कार्यः। अतः परं सात्म्यमुपैति स्नेहः॥",
+    "meaning": "मृदु कोष्ठ में कम से कम 3 दिन और क्रूर कोष्ठ में अधिकतम 7 दिन तक स्नेहपान कराना चाहिए; 7 दिन के बाद स्नेह शरीर में सात्म्य हो जाता है और शोधन में सहायक नहीं रहता।",
+    "keywords": ["स्नेहपान अवधि", "3 दिन", "5 दिन", "7 दिन", "कोष्ठ", "सात्म्य"],
+    "modern_correlation": "7-day lipid saturation threshold beyond which hepatic lipase and enterohepatic circulation adapt, reducing osmotic/emetic mobilization efficiency."
+  },
+  {
+    "id": "CS_SU_13_58",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 13 (स्नेहाध्याय)",
+    "shloka": "वातानुलोम्यं दीप्तोऽग्निर्वर्चः स्निग्धमसंहतम्। मार्दवं स्निग्धता चाङ्गे स्निग्धानां जायते नृणाम्॥",
+    "meaning": "सम्यक् स्निग्ध पुरुष में वायु का अनुलोमन, जठराग्नि की प्रदीप्ति, स्निग्ध व असंहत मल तथा अंगों में मृदुता व स्निग्धता उत्पन्न होती है।",
+    "keywords": ["सम्यक् स्निग्ध", "वातानुलोम्य", "दीप्ताग्नि", "स्नेहपान लक्षण"],
+    "modern_correlation": "Clinical endpoints of systemic lipid saturation: normalized peristalsis, biliary emulsification in stool, and improved skin barrier hydration."
+  },
+  {
+    "id": "CS_SU_14_3",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 14 (स्वेदाध्याय)",
+    "shloka": "स्नेहपूर्वं प्रयुक्तेन स्वेदेनावजितेऽनिले। पुरीषमूत्ररेतांसि न सज्जन्ति कथञ्चन॥",
+    "meaning": "स्नेहन के पश्चात् स्वेदन करने से वायु नियंत्रित होती है तथा मल, मूत्र और शुक्र का अवरोध समाप्त हो जाता है।",
+    "keywords": ["स्वेदन", "वायु नियंत्रण", "स्रोतोरोध नाश", "पूर्वकर्म"],
+    "modern_correlation": "Thermal vasodilation and smooth muscle relaxation relieving functional sphincteric and microvascular spasm."
+  },
+  {
+    "id": "CS_SU_14_67",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 14 (स्वेदाध्याय)",
+    "shloka": "शीतशूलव्युपशमे स्तम्भगौरवनिग्रहे। सञ्जाते मार्दवे स्वेदे स्वेदनाद्विरमेत्ततः॥",
+    "meaning": "शीत और शूल के शांत होने, स्तम्भ व गौरव के नष्ट होने तथा शरीर में मृदुता व पसीना आने पर स्वेदन रोक देना चाहिए।",
+    "keywords": ["सम्यक् स्वेद", "स्तम्भ", "गौरव", "शूल", "स्वेदन विराम"],
+    "modern_correlation": "Controlled hyperthermic diaphoresis endpoint indicating peripheral perfusion shift without inducing hypovolemic electrolyte depletion."
+  },
+  {
+    "id": "CS_SU_15_16",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 15 (उपकल्पनीय)",
+    "shloka": "जघन्यमध्यप्रवरे तु वेगाश्चत्वार इष्टा वमने षडष्टौ। दशैव ते द्वित्रिगुणा विरेके प्रस्थस्तथा द्वित्रिचतुर्गुणश्च॥",
+    "meaning": "वमन में अवर शुद्धि के 4, मध्यम के 6 और प्रवर शुद्धि के 8 वेग होते हैं; विरेचन में क्रमशः 10, 20 और 30 वेग होते हैं।",
+    "keywords": ["वेग संख्या", "वमन वेग", "विरेचन वेग", "प्रवर", "मध्यम", "अवर", "मानिकी"],
+    "modern_correlation": "Quantitative output stratification (4/6/8 emetic bouts; 10/20/30 purgative bouts) used to titrate post-procedure refeeding duration."
+  },
+  {
+    "id": "CS_SU_16_17",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 16 (चिकित्साप्राभृतीय)",
+    "shloka": "दोषाः कदाचित् कुप्यन्ति जिता लङ्घनपाचनैः। जिताः संशोधनैर्ये तु न तेषां पुनरुद्भवः॥",
+    "meaning": "लंघन और पाचन (शमन) से शांत किए गए दोष पुनः कुपित हो सकते हैं, किंतु संशोधन (पंचकर्म) से निर्हरित दोषों की पुनरुत्पत्ति नहीं होती।",
+    "keywords": ["संशोधन महत्व", "पुनरुद्भव अभाव", "शमन बनाम शोधन", "पंचकर्म लाभ"],
+    "modern_correlation": "Root-cause clearance of accumulated metabolic/inflammatory mediators vs. temporary symptomatic suppression."
+  },
+  {
+    "id": "CS_SU_22_11",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 22 (लङ्घनबृंहणीय)",
+    "shloka": "कषायतिक्तमधुरैः स्नेहसंस्कृतवर्जितैः। लङ्घनं वातपित्तघ्नं कफमेदोविशोषणम्॥ रौक्ष्यं खरत्वं वैशद्यं गौरवस्तम्भनाशनम्।",
+    "meaning": "कफ व मेद की अधिकता तथा सामावस्था में स्नेह रहित कषाय-तिक्त द्रव्यों से रूक्षण करने पर गौरव और स्तम्भ नष्ट होता है।",
+    "keywords": ["रूक्षण", "उद्वर्तन", "आम", "मेद", "गौरव", "स्तम्भ", "स्थौल्य"],
+    "modern_correlation": "Pre-oleation metabolic de-loading in insulin resistance, hyperlipidemia, and inflammatory stiffness."
+  },
+  {
+    "id": "CS_SU_28_31",
+    "samhita": "चरक संहिता",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 28 (विविधाशितपीतीय)",
+    "shloka": "व्यायामादूष्मणस्तैक्ष्ण्याद्धितस्यानवचारणात्। कोष्ठाच्छाखास्थिमर्माणि द्रुतत्वान्मारुतस्य च॥ दोषा यान्ति तथा तेभ्यः स्रोतोमुखविशोधनात्। वृद्ध्याऽभिष्यन्दनात् पाकात् कोष्ठं वायोश्च निग्रहात्॥",
+    "meaning": "व्यायाम, उष्णता और वायु से दोष कोष्ठ से शाखा में जाते हैं; तथा स्नेहन (स्रोतोमुख विशोधन), स्वेदन (अभिष्यन्दन), पाचन और वायु निग्रह से दोष शाखा से कोष्ठ में वापस लाए जाते हैं।",
+    "keywords": ["शाखा से कोष्ठ", "संप्राप्ति विघातन", "स्नेहन", "स्वेदन", "पाचन"],
+    "modern_correlation": "Mobilization of interstitial immune complexes and cytokines from peripheral tissues into the hepatobiliary-enteric lumen for elimination."
+  },
+  {
+    "id": "CS_NI_1_11",
+    "samhita": "चरक संहिता",
+    "sthana": "निदानस्थान",
+    "adhyaya": "अध्याय 1 (ज्वरनिदान)",
+    "shloka": "निदानं पूर्वलिङ्गानि लिङ्गान्युपशयस्तथा। संप्राप्तिश्चेति विज्ञानं रोगाणां पञ्चधा स्मृतम्॥",
+    "meaning": "निदान, पूर्वरूप, रूप, उपशय और संप्राप्ति—इन पाँच माध्यमों से रोग का पूर्ण विनिश्चय करना चाहिए।",
+    "keywords": ["निदान पञ्चक", "संप्राप्ति", "उपशय", "रोग विनिश्चय"],
+    "modern_correlation": "Five-step clinical diagnostic reasoning covering etiology, prodrome, phenotype, therapeutic trial, and pathogenesis."
+  },
+  {
+    "id": "CS_VI_2_9",
+    "samhita": "चरक संहिता",
+    "sthana": "विमानस्थान",
+    "adhyaya": "अध्याय 2 (त्रिविधकुक्षीयविमान)",
+    "shloka": "आमं हि सर्वदोषाणां मूलं प्राहुर्मनीषिणः।",
+    "meaning": "मनीषियों ने आमाशयगत अपक्व अन्नरस (आम) को समस्त दोषप्रकोप और व्याधियों का मूल कारण बताया है।",
+    "keywords": ["आम", "आमाशय", "मन्दाग्नि", "विमानस्थान"],
+    "modern_correlation": "Gut-derived endotoxemia and impaired digestive hydrolysis acting as the primary trigger for systemic inflammation."
+  },
+  {
+    "id": "CS_VI_6_12",
+    "samhita": "चरक संहिता",
+    "sthana": "विमानस्थान",
+    "adhyaya": "अध्याय 6 (रोगाणीकविमान)",
+    "shloka": "विषमो वातजे रोगे तीक्ष्णो भवति पैत्तिके। मन्दस्तु श्लैष्मिके रोगे समः सर्वसमत्वतः॥",
+    "meaning": "वात से विषमाग्नि, पित्त से तीक्ष्णाग्नि, कफ से मन्दाग्नि और त्रिदोष साम्य से समाग्नि होती है।",
+    "keywords": ["अग्नि प्रकार", "विषमाग्नि", "तीक्ष्णाग्नि", "मन्दाग्नि", "समाग्नि", "CCRAS"],
+    "modern_correlation": "Autonomic gastrointestinal motility and gastric acid secretion phenotypes linked to doshic predominance."
+  },
+  {
+    "id": "CS_VI_8_94",
+    "samhita": "चरक संहिता",
+    "sthana": "विमानस्थान",
+    "adhyaya": "अध्याय 8 (रोगभिषग्जितीयविमान)",
+    "shloka": "तस्मादातुरं परीक्षेत प्रकृतितश्च विकृतितश्च सारतश्च संहननतश्च प्रमाणतश्च सात्म्यतश्च सत्त्वतश्चाहारशक्तितश्च व्यायामशक्तितश्च वयस्तश्चेति।",
+    "meaning": "शोधन से पूर्व रोगी के बल का ज्ञान करने हेतु प्रकृति, विकृति, सार, संहनन, प्रमाण, सात्म्य, सत्त्व, आहारशक्ति, व्यायामशक्ति व वय की दशविध परीक्षा करनी चाहिए।",
+    "keywords": ["दशविध परीक्षा", "सत्त्व", "सार", "आहारशक्ति", "शोधन योग्यता"],
+    "modern_correlation": "Comprehensive pre-procedural fitness and physiological reserve assessment."
+  },
+  {
+    "id": "CS_SH_6_13",
+    "samhita": "चरक संहिता",
+    "sthana": "शारीरस्थान",
+    "adhyaya": "अध्याय 6 (शरीरविचयशारीर)",
+    "shloka": "न हि आमयुक्तं शोधयेत्, आमयुक्ते हि शोधने क्रियमाणे दोषो धातूननुप्रविश्य शरीरं नाशयति।",
+    "meaning": "सामावस्था में कभी भी शोधन नहीं करना चाहिए; अन्यथा लीन दोष धातुओं में प्रविष्ट होकर गंभीर उपद्रव करते हैं।",
+    "keywords": ["साम निषेध", "दीपन पाचन", "शोधन निषेध", "आमवात"],
+    "modern_correlation": "Contraindication of aggressive purging during acute systemic inflammation; requires metabolic priming first."
+  },
+  {
+    "id": "CS_IN_1_3",
+    "samhita": "चरक संहिता",
+    "sthana": "इन्द्रियस्थान",
+    "adhyaya": "अध्याय 1 (वर्णस्वरीयमिन्द्रिय)",
+    "shloka": "प्रकृतिं च विकृतिं च दृष्ट्वा रोगस्य धीमान् भिषक्। साध्यासाध्यविभागज्ञः कर्म समारभेत्॥",
+    "meaning": "रोगी की प्रकृति, विकृति व अरिष्ट लक्षणों की परीक्षा कर साध्य-असाध्यता जानकर ही पंचकर्म आरंभ करना चाहिए।",
+    "keywords": ["साध्यासाध्य", "अरिष्ट परीक्षा", "इन्द्रियस्थान"],
+    "modern_correlation": "Red-flag exclusion and prognostic screening prior to interventional therapies."
+  },
+  {
+    "id": "CS_CI_28_75",
+    "samhita": "चरक संहिता",
+    "sthana": "चिकित्सास्थान",
+    "adhyaya": "अध्याय 28 (वातव्याधिचिकित्सा)",
+    "shloka": "स्नेहस्वेदोपपन्नस्य संशोधनमथाचरेत्। मृदुना भेषजेनादौ वातव्याधिचिकित्सिते॥ बस्तिर्वातहराणां तु श्रेष्ठः सर्वत्र कीर्तितः।",
+    "meaning": "वातव्याधि में स्नेहन-स्वेदन के पश्चात् मृदु शोधन और तत्पश्चात् वातशमन हेतु सर्वश्रेष्ठ बस्ति कर्म का प्रयोग करना चाहिए।",
+    "keywords": ["वातव्याधि", "बस्ति श्रेष्ठता", "गृध्रसी", "संधिवात", "पक्षाघात"],
+    "modern_correlation": "Enteric nervous system (ENS) and gut-brain axis modulation via trans-colonic lipophilic and aqueous therapeutics."
+  },
+  {
+    "id": "CS_KA_1_14",
+    "samhita": "चरक संहिता",
+    "sthana": "कल्पस्थान",
+    "adhyaya": "अध्याय 1 (मदनकल्प)",
+    "shloka": "वमनद्रव्याणां मदनफलानि श्रेष्ठतमाण्याचक्षते अनपायित्वात्।",
+    "meaning": "सभी वामक औषधियों में मदनफल सर्वश्रेष्ठ और निरुपद्रव है।",
+    "keywords": ["मदनफल", "वमन श्रेष्ठ", "कल्पस्थान", "कफ शोधन"],
+    "modern_correlation": "Targeted vagal afferent emetic activation via Randia dumetorum saponins with high safety margin."
+  },
+  {
+    "id": "CS_SI_1_13",
+    "samhita": "चरक संहिता",
+    "sthana": "सिद्धिस्थान",
+    "adhyaya": "अध्याय 1 (कल्पनासिद्धि)",
+    "shloka": "क्रमात् पीतानि पेयादीन्यग्निं संधुक्षयन्ति हि। यथाऽणुरग्निस्तृणगोमयाद्यैः संधुक्ष्यमाणो भवति क्रमेण॥",
+    "meaning": "शोधन के पश्चात् क्रमशः पेया, विलेपी, अकृत-कृत यूष व मांसरस के संसर्जन क्रम से मंद हुई जठराग्नि को प्रदीप्त किया जाता है।",
+    "keywords": ["संसर्जन क्रम", "पेया", "विलेपी", "यूष", "अग्नि दीपन"],
+    "modern_correlation": "Graduated hypo-osmolar refeeding to restore brush-border enzymes and gut microbiome after purging."
+  },
+  {
+    "id": "CS_SI_1_39",
+    "samhita": "चरक संहिता",
+    "sthana": "सिद्धिस्थान",
+    "adhyaya": "अध्याय 1 (कल्पनासिद्धि)",
+    "shloka": "बस्तिर्वातहराणां श्रेष्ठतमः, अर्धचिकित्सा इति वा सर्वचिकित्सा इति वा।",
+    "meaning": "बस्ति वातहर चिकित्साओं में सर्वश्रेष्ठ है; इसे अर्धचिकित्सा अथवा संपूर्ण चिकित्सा कहा गया है।",
+    "keywords": ["बस्ति अर्धचिकित्सा", "निरूह", "अनुवासन", "सिद्धिस्थान"],
+    "modern_correlation": "Systemic neuro-immune and metabolic regulation via rectal-colonic vascular and neural plexus."
+  },
+  {
+    "id": "CS_SI_6_29",
+    "samhita": "चरक संहिता",
+    "sthana": "सिद्धिस्थान",
+    "adhyaya": "अध्याय 6 (वमनविरेचनव्यापत्सिद्धि)",
+    "shloka": "अयोगे वमनस्य स्यात् कफोत्क्लेशो गुरुत्वता। अतियोगे तु तृष्णा स्यान्मोहो मूर्च्छाऽनिलप्रकोपः॥",
+    "meaning": "वमन के अयोग में कफोत्क्लेश व गौरव तथा अतियोग में तृष्णा, मोह, मूर्च्छा व वातप्रकोप होता है।",
+    "keywords": ["वमन व्यापत्", "अयोग", "अतियोग", "उपद्रव चिकित्सा"],
+    "modern_correlation": "Monitoring for incomplete gastric clearance vs. vagal syncope, dehydration, and electrolyte imbalance."
+  },
+  {
+    "id": "CS_SI_9_88",
+    "samhita": "चरक संहिता",
+    "sthana": "सिद्धिस्थान",
+    "adhyaya": "अध्याय 9 (त्रिमर्मीयसिद्धि)",
+    "shloka": "द्वारं हि शिरसो नासा तेन तद्व्याप्य हन्ति तान्।",
+    "meaning": "नासिका शिर का द्वार है; नस्य औषध नासिका से प्रवेश कर ऊर्ध्वजत्रुगत रोगों का नाश करती है।",
+    "keywords": ["नस्य", "शिरोविरेचन", "नासा द्वार", "ऊर्ध्वजत्रुगत"],
+    "modern_correlation": "Direct nose-to-brain olfactory and trigeminal drug transport bypassing the blood-brain barrier."
+  },
+  {
+    "id": "AH_SU_1_12",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 1 (आयुष्कामीय)",
+    "shloka": "मृदुर्मध्याधिकः कोष्ठो वातपित्तकफैः क्रमात्। तीक्ष्णो मन्दः समो विषमः क्रूरश्चाग्निश्चतुर्विधः॥",
+    "meaning": "पित्त से मृदु, कफ से मध्यम और वात से क्रूर कोष्ठ होता है; अग्नि तीक्ष्ण, मन्द, सम और विषम—चार प्रकार की होती है।",
+    "keywords": ["कोष्ठ", "मृदु", "मध्यम", "क्रूर", "अग्नि"],
+    "modern_correlation": "Gastrointestinal transit time and metabolic rate classification guiding personalized panchakarma dosing."
+  },
+  {
+    "id": "AH_SU_16_30",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 16 (स्नेहविधि)",
+    "shloka": "दीप्तान्तरग्निः परिशुद्धकोष्ठः प्रत्यग्रधातुर्बलवर्णयुक्तः। दृढेन्द्रियो मन्दजरः शतायुः स्नेहोपसेवी पुरुषो भवेत्॥",
+    "meaning": "विधिपूर्वक स्नेहपान करने से जठराग्नि प्रदीप्त होती है, कोष्ठ शुद्ध होता है, धातुएं पुष्ट होती हैं और इन्द्रियों में दृढ़ता आती है।",
+    "keywords": ["स्नेहपान फल", "परिशुद्ध कोष्ठ", "अष्टांग हृदय"],
+    "modern_correlation": "Enhanced cellular membrane fluidity, neuro-protection, and fat-soluble antioxidant assimilation."
+  },
+  {
+    "id": "AH_SU_18_1",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 18 (वमनविरेचनविधि)",
+    "shloka": "कफे विदध्याद्वमनं संयोगे वा कफोल्वणे। तद्वद्विरेचनं पित्ते विशेषेण तु शस्यते॥",
+    "meaning": "कफ की अधिकता में वमन और पित्त की अधिकता में विरेचन विशेष रूप से प्रशस्त है।",
+    "keywords": ["वमन", "विरेचन", "कफ", "पित्त", "अष्टांग हृदय"],
+    "modern_correlation": "Upper GI mucolytic/emetic clearance for kapha vs. hepatobiliary-enteric clearance for pitta."
+  },
+  {
+    "id": "AH_SU_20_1",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 20 (नस्यविधि)",
+    "shloka": "ऊर्ध्वजत्रुविकारेषु विशेषान्नस्यमिष्यते। विरेचनं बृंहणं च शमनं च त्रिधा हि तत्॥",
+    "meaning": "ऊर्ध्वजत्रुगत रोगों में विरेचन (शिरोविरेचन), बृंहण और शमन—तीन प्रकार का नस्य प्रयुक्त होता है।",
+    "keywords": ["नस्य भेद", "शिरोविरेचन", "बृंहण नस्य", "शमन नस्य"],
+    "modern_correlation": "Intranasal decongestant, neuro-trophic, and anti-inflammatory delivery."
+  },
+  {
+    "id": "AH_SU_22_23",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 22 (गण्डूषादिविधि)",
+    "shloka": "मूर्धतैलं चतुर्धा स्यादभ्यङ्गः परिषेचनम्। पिचुर्बस्तिरिति प्रोक्तं तेषां पूर्वं पूर्वं गुणोत्तरम्॥",
+    "meaning": "उपकर्म के अंतर्गत मूर्धतैल—अभ्यंग, परिषेक (शिरोधारा), पिचु और शिरोबस्ति उत्तरोत्तर श्रेष्ठ होते हैं।",
+    "keywords": ["शिरोधारा", "मूर्धतैल", "उपकर्म", "शिरोबस्ति", "पिचु"],
+    "modern_correlation": "Parasympathetic activation, alpha-theta brainwave synchronization, and cortisol reduction via Shirodhara."
+  },
+  {
+    "id": "AH_SU_26_1",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "सूत्रस्थान",
+    "adhyaya": "अध्याय 26 (सिराव्यधविधि)",
+    "shloka": "रक्तावसेचनं कुर्यात् पित्तदुष्टे विशेषतः। जलौकाः सुकुमाराणां सिराव्यधस्तु सर्वगः॥",
+    "meaning": "पित्त व रक्तदुष्टिजन्य रोगों में सुकुमार रोगियों हेतु जलौका तथा सर्वगत रक्तदुष्टि हेतु सिरावेध श्रेष्ठ है।",
+    "keywords": ["रक्तमोक्षण", "जलौका", "सिरावेध", "रक्तदुष्टि"],
+    "modern_correlation": "Hirudin-mediated localized microcirculatory decompression and anti-inflammatory analgesia."
+  },
+  {
+    "id": "AH_SH_3_62",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "शारीरस्थान",
+    "adhyaya": "अध्याय 3 (अङ्गावयवशारीर)",
+    "shloka": "सप्त त्वचः सप्त कलाः सप्त आशयाः सप्त धातवः। स्रोतांसि च यथास्थानं ज्ञात्वा कर्म समाचरेत्॥",
+    "meaning": "त्वचा, कला, आशय, धातु और स्रोतसों के शारीर ज्ञान पूर्वक ही बस्ति, स्वेदन, उपकर्म व रक्तमोक्षण करना चाहिए।",
+    "keywords": ["स्रोतस", "कला", "आशय", "शारीरस्थान"],
+    "modern_correlation": "Anatomical precision in fascial, mucosal, and vascular plane targeting during Panchakarma."
+  },
+  {
+    "id": "AH_NI_1_8",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "निदानस्थान",
+    "adhyaya": "अध्याय 1 (सर्वरोगनिदान)",
+    "shloka": "रोगाः सर्वेऽपि मन्देऽग्नौ सुतरामुदराणि च। अजीर्णान्मलिनाच्चान्नाज्जायन्ते मलसञ्चयात्॥",
+    "meaning": "समस्त रोग मन्दाग्नि, अजीर्ण और मलसंचय से उत्पन्न होते हैं।",
+    "keywords": ["मन्दाग्नि", "अजीर्ण", "मलसंचय", "निदानस्थान"],
+    "modern_correlation": "Digestive insufficiency and intestinal dysbiosis driving systemic chronic disease."
+  },
+  {
+    "id": "AH_CI_15_1",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "चिकित्सास्थान",
+    "adhyaya": "अध्याय 15 (सर्वशोधन क्रम)",
+    "shloka": "स्नेहस्वेदोपपन्नस्य वमनं सविरेचनम्। ततो बस्तिर्निरूहश्च स्नेहबस्तिश्च योजयेत्॥",
+    "meaning": "स्नेहन-स्वेदन के पश्चात् वमन, विरेचन, निरूह बस्ति और अनुवासन बस्ति का क्रमिक प्रयोग करना चाहिए।",
+    "keywords": ["पंचकर्म क्रम", "वमन", "विरेचन", "बस्ति", "चिकित्सास्थान"],
+    "modern_correlation": "Sequential cranio-caudal gastrointestinal detoxification protocol."
+  },
+  {
+    "id": "AH_KA_4_1",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "कल्पसिद्धिस्थान",
+    "adhyaya": "अध्याय 4 (बस्तिकल्प)",
+    "shloka": "त्रिंशत् कर्मबस्तयः षोडश कालः अष्टौ योगबस्तयः।",
+    "meaning": "30 बस्ति का कर्म बस्ति, 16 का काल बस्ति और 8 बस्ति का योग बस्ति क्रम होता है।",
+    "keywords": ["योग बस्ति", "काल बस्ति", "कर्म बस्ति", "कल्पसिद्धिस्थान"],
+    "modern_correlation": "Structured multi-day alternating decoction and medicated oil colonic regimen."
+  },
+  {
+    "id": "AH_UT_13_1",
+    "samhita": "अष्टांग हृदय",
+    "sthana": "उत्तरस्थान",
+    "adhyaya": "अध्याय 13 (नेत्रक्रियाकल्प)",
+    "shloka": "तर्पणं पुटपाकश्च सेक आश्च्योतनं तथा। अञ्जनं चेति नेत्रस्य क्रियाकल्पाः प्रकीर्तिताः॥",
+    "meaning": "नेत्र रोगों में उपकर्म के अंतर्गत तर्पण, पुटपाक, सेक, आश्च्योतन और अंजन—पाँच क्रियाकल्प कहे गए हैं।",
+    "keywords": ["नेत्र तर्पण", "क्रियाकल्प", "उपकर्म", "उत्तरस्थान"],
+    "modern_correlation": "Ocular surface lipid layer stabilization and corneal epithelial regeneration via medicated ghee pool."
+  }
+]

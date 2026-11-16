@@ -1,0 +1,97 @@
+/* Custom Animations & Clinical Styling for AyurParam Panchakarma */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap');
+
+:root {
+  --emerald-glow: rgba(16, 185, 129, 0.15);
+  --gold-accent: #d97706;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', 'Noto Sans Devanagari', sans-serif;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.devanagari {
+  font-family: 'Noto Sans Devanagari', 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Tap-Tap Clinical Selection Chips */
+.tap-chip {
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.18s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tap-chip:active {
+  transform: scale(0.95);
+}
+
+.tap-chip.active {
+  background: linear-gradient(135deg, #059669 0%, #047857 100%);
+  color: #ffffff !important;
+  border-color: #10b981 !important;
+  box-shadow: 0 4px 14px rgba(16, 185, 129, 0.3);
+}
+
+.tap-chip-danger.active {
+  background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+  color: #ffffff !important;
+  border-color: #ef4444 !important;
+  box-shadow: 0 4px 14px rgba(239, 68, 68, 0.3);
+}
+
+/* Live Procedure Pulse Badge */
+@keyframes livePulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.45; transform: scale(1.25); }
+}
+
+.live-dot {
+  animation: livePulse 1.6s infinite ease-in-out;
+}
+
+/* Smooth Tab Fade */
+.tab-panel {
+  animation: fadeSlideIn 0.25s ease-out;
+}
+
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.35);
+  border-radius: 999px;
+}
+
+/* A4 Print Case Sheet Styling */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #printable-case-dossier, #printable-case-dossier * {
+    visibility: visible;
+  }
+  #printable-case-dossier {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background: #ffffff !important;
+    color: #000000 !important;
+    padding: 12mm;
+    box-shadow: none !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+}
